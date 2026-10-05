@@ -1,0 +1,16 @@
+# Environments and dependencies
+backend_venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+local_npm_cache/
+.DS_Store
+
+# Databases & local sqlite
+*.db
+forge_logistics.db
+
+# Logs & temp
+*.log
+.env
